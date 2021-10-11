@@ -8,8 +8,6 @@
 */
 #include <iostream>
 
-
-
 int main()
 {
     for(int row = 5 ; row > 0 ; row--){
