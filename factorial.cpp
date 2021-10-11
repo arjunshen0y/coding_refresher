@@ -9,7 +9,5 @@ int main(){
         fact = fact*i;
     }
     std::cout<<"The Factorial is :"<<fact;
-    
-
     return 0;
 }
